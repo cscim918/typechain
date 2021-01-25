@@ -1,0 +1,9 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "learning typescript by blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/cscim918/typechain.git",
+  "author": "yunbo <cscim918@gmail.com>",
+  "license": "MIT"
+}
