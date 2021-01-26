@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/cscim918/typechain.git",
   "author": "yunbo <cscim918@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
